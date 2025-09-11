@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "ArrayM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{333C16B0-F221-425E-B502-842C58AD1B00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C3AECCD1-8D61-474A-A698-1FB42182DE73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{333C16B0-F221-425E-B502-842C58AD1B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333C16B0-F221-425E-B502-842C58AD1B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333C16B0-F221-425E-B502-842C58AD1B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
