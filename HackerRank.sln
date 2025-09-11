@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCase", "StairCase\StairCase.csproj", "{63D8FAD3-0FBF-4216-B719-B4E814F014D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookupWithBinarySearch", "LookupWithBinarySearch\LookupWithBinarySearch.csproj", "{BF6D3A28-C94C-4114-AC52-EC5F3FB00E0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6D3A28-C94C-4114-AC52-EC5F3FB00E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6D3A28-C94C-4114-AC52-EC5F3FB00E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6D3A28-C94C-4114-AC52-EC5F3FB00E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6D3A28-C94C-4114-AC52-EC5F3FB00E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
