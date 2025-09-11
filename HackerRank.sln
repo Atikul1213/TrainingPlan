@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{B669CFA7-36F6-401F-B8D4-580651A544D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotation", "LeftRotation\LeftRotation.csproj", "{57EBB3A9-E2D9-458C-A407-53865B81A899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B669CFA7-36F6-401F-B8D4-580651A544D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B669CFA7-36F6-401F-B8D4-580651A544D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B669CFA7-36F6-401F-B8D4-580651A544D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EBB3A9-E2D9-458C-A407-53865B81A899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EBB3A9-E2D9-458C-A407-53865B81A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EBB3A9-E2D9-458C-A407-53865B81A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EBB3A9-E2D9-458C-A407-53865B81A899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
