@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C3AECCD1-8D61-474A-A698-1FB42182DE73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairCase", "StairCase\StairCase.csproj", "{63D8FAD3-0FBF-4216-B719-B4E814F014D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3AECCD1-8D61-474A-A698-1FB42182DE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D8FAD3-0FBF-4216-B719-B4E814F014D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
