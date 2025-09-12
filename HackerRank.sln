@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookupWithBinarySearch", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmallestMissingPositiveInteger", "FindSmallestMissingPositiveInteger\FindSmallestMissingPositiveInteger.csproj", "{B6F32110-52EC-41AD-8893-5C3DC8E41C08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQPractice", "LINQPractice\LINQPractice.csproj", "{3C1B3A52-54C4-406D-98AB-A610ECDFD636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B6F32110-52EC-41AD-8893-5C3DC8E41C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F32110-52EC-41AD-8893-5C3DC8E41C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6F32110-52EC-41AD-8893-5C3DC8E41C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1B3A52-54C4-406D-98AB-A610ECDFD636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1B3A52-54C4-406D-98AB-A610ECDFD636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1B3A52-54C4-406D-98AB-A610ECDFD636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1B3A52-54C4-406D-98AB-A610ECDFD636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
