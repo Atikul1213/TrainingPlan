@@ -36,6 +36,37 @@ public class Program
         var teenAgerStudent1 = slist.Where(s => s.Age > 12 && s.Age < 20);
         Console.WriteLine("Teen age student count: " + teenAgerStudent.Count());
 
+        var filterResult = slist.Where((s, i) =>
+        {
+            if (i % 2 == 0)
+                return true;  // if it is even element
+            return false;
+        });
+
+
+
+        //Sorting
+
+        var orderByResult = from s in slist
+                            orderby s.Age
+                            select s;
+        var orderByResultDesc = from s in slist
+                                orderby s.Age descending
+                                select s;
+
+        var orderByResult1 = slist.OrderBy(s => s.Age);
+
+        var orderByResultDesc1 = slist.OrderByDescending(s => s.Age);
+
+
+        // thenBy
+
+        var orderThanBy = from s in slist
+                          orderby s.Age ascending, s.StudentId descending
+                          select s;
+        var orderThanBy1 = slist.OrderBy(s => s.Age).ThenByDescending(s => s.StudentId);
+
+
 
     }
 }
