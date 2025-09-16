@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicate", "RemoveDuplicate\RemoveDuplicate.csproj", "{4D5D9C57-D1F6-4D48-BEC5-0172EC80C23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{BBD615EC-291D-404D-8BD2-A3711151BDF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4D5D9C57-D1F6-4D48-BEC5-0172EC80C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5D9C57-D1F6-4D48-BEC5-0172EC80C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5D9C57-D1F6-4D48-BEC5-0172EC80C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
