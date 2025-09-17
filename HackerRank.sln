@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicate", "RemoveDu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{BBD615EC-291D-404D-8BD2-A3711151BDF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.csproj", "{F25D00C5-CBBA-4867-99EF-712D53E9CA22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD615EC-291D-404D-8BD2-A3711151BDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25D00C5-CBBA-4867-99EF-712D53E9CA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25D00C5-CBBA-4867-99EF-712D53E9CA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25D00C5-CBBA-4867-99EF-712D53E9CA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25D00C5-CBBA-4867-99EF-712D53E9CA22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
