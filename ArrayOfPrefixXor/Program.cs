@@ -1,5 +1,6 @@
 ﻿public class Program
 {
+    // Link   https://leetcode.com/problems/find-the-original-array-of-prefix-xor/submissions/1782133262/
     public static void Main(string[] args)
     {
         FindArray(new int[] { 5, 2, 0, 3, 1 });
