@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisingTemperature", "Rising
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveNumber", "ConsecutiveNumber\ConsecutiveNumber.csproj", "{A92508E5-B521-4BD2-9C3C-DB0312480525}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentHighestSalary", "DepartmentHighestSalary\DepartmentHighestSalary.csproj", "{C159F495-E964-46CC-A02E-49F8587E3398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{A92508E5-B521-4BD2-9C3C-DB0312480525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92508E5-B521-4BD2-9C3C-DB0312480525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92508E5-B521-4BD2-9C3C-DB0312480525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C159F495-E964-46CC-A02E-49F8587E3398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C159F495-E964-46CC-A02E-49F8587E3398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C159F495-E964-46CC-A02E-49F8587E3398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C159F495-E964-46CC-A02E-49F8587E3398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
