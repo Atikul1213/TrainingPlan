@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondHighestSalary", "Seco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankScore", "RankScore\RankScore.csproj", "{F7CD6F8B-0A4C-4B17-90A2-A454CE263D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicateEmail", "DeleteDuplicateEmail\DeleteDuplicateEmail.csproj", "{90706EDC-4500-4736-95D6-75EA961229F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{F7CD6F8B-0A4C-4B17-90A2-A454CE263D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7CD6F8B-0A4C-4B17-90A2-A454CE263D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7CD6F8B-0A4C-4B17-90A2-A454CE263D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90706EDC-4500-4736-95D6-75EA961229F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90706EDC-4500-4736-95D6-75EA961229F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90706EDC-4500-4736-95D6-75EA961229F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90706EDC-4500-4736-95D6-75EA961229F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
